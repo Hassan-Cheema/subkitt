@@ -1,8 +1,8 @@
 # SubKitt
 
-You ship. SubKitt handles the distribution.
+You ship. SubKitt turns your work into inbound.
 
-An AI agent that turns your weekly commits into founder-led audience growth — so technical founders can stay in the code instead of becoming content creators.
+Grow a founder audience without becoming a content person. For technical founders who'd rather stay in the code.
 
 ## Status
 
