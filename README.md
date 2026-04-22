@@ -1,16 +1,16 @@
 # SubKitt
 
-AI that reads your GitHub commits + shipped features and drafts a week of tweets in your voice.
+You ship. SubKitt turns your work into inbound.
 
-For technical founders who ship constantly but hate marketing.
+Grow a founder audience without becoming a content person. For technical founders who'd rather stay in the code.
 
 ## Status
 
-Day 2 of building in public. Pre-MVP. Currently validating with 20+ founder conversations.
+Day 3 of building in public. Pre-MVP. Currently validating with 20+ founder conversations.
 
 ## Tech
 
-- Next.js 14 (App Router)
+- Next.js 15 (App Router)
 - TypeScript
 - Tailwind CSS
 - Supabase (coming)
