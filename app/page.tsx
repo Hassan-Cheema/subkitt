@@ -169,7 +169,7 @@ export default function Home() {
             <div className="w-9 h-9 rounded-full bg-neutral-800 border border-neutral-700 shrink-0 flex items-center justify-center text-sm font-semibold text-neutral-400">H</div>
             <div className="space-y-3">
               <p className="text-neutral-300 leading-relaxed">
-                I&apos;m Hassan. Solo, technical, broke student, Day 5.
+                I&apos;m Hassan. Solo, technical, broke student, Day 8.
               </p>
               <p className="text-neutral-400 leading-relaxed text-sm">
                 I got tired of shipping code nobody saw. I refused to waste my build time on &ldquo;Twitter growth hacks.&rdquo; So I&apos;m building the tool I needed.
